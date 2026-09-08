@@ -44,4 +44,4 @@ That's it — no build tools or dependencies needed!
 
 ## Author
 Suchismita Saha
-[![Linkedin](www.linkedin.com/in/suchismita-saha-0707633b1)
+![Linkedin](www.linkedin.com/in/suchismita-saha-0707633b1)
