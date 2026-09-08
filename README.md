@@ -40,3 +40,4 @@ That's it — no build tools or dependencies needed!
 - Clicking an already-filled cell is ignored.
 - The game locks further moves once a winner or draw is determined.
 ## Screenshots
+![Game screenshot](https://github.com/Suchismitasahaa/Tic-Tac-Toe-Game/blob/main/Game_board.png)
